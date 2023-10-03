@@ -9,6 +9,6 @@
     <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </section><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yf4t4l&layout=compact)](https://github.com/Rangel7y/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangel7y&layout=compact)](https://github.com/Rangel7y/github-readme-stats)
 
 ![yf4t4l GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangel7y&show_icons=true&theme=radical)
