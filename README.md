@@ -1,4 +1,4 @@
-# Hi, i'm Rangel 🗿🍷
+# Hi 🗿🍷
 
 ### A beginner developer, in search of knowledge...
 
