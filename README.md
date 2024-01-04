@@ -1,4 +1,4 @@
-# Hi 🗿🍷
+# 🗿🍷
 
 ### A beginner developer, in search of knowledge...
 
