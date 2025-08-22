@@ -1,7 +1,5 @@
 # 🗿🍷
 
-### A beginner developer, in search of knowledge...
-
 ## Languages and Tools:
 <section style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
